@@ -16,13 +16,13 @@ Shows status of repository. Reviews modifired files.
 
 Adds file for commitment. Filename could be replaced with dot.
 
- *git add .*
+ >*git add .*
 
 * **git commit**
 
 Creates a commitment for all changes of files. You may comment your commitment with -m "text".
 
-*git commit -m "text"*
+>*git commit -m "text"*
 
 ### Branches
 
