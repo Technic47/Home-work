@@ -96,8 +96,6 @@ Apply hidden changes.
 
 ### Basic comands
 
-### Workflow
-
 * **git clone https://.......**
 
 Clones repository from selected adress in github.
