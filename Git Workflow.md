@@ -26,6 +26,30 @@ Creates a commitment for all changes of files. You may comment your commitment w
 
 ### Branches
 
+* git branch
+
+
+* git branch *branchname*
+
+
+* git checkout *branchname*
+
+
+
+* git checkout -b *branchname*
+
+
+
+* git branch -d *branchname*
+
+
+
+* git branch -M *new_branchname*
+
+
+
+* git merge *branchname*
+
 ### Support comands
 
 ## GitHub
