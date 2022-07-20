@@ -26,7 +26,7 @@ Creates a commitment for all changes of files. You may comment your commitment w
 
 ### Branches
 
-### Support comands
+### Support commands
 
 * **clear**
 
