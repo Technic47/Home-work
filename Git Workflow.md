@@ -28,6 +28,26 @@ Creates a commitment for all changes of files. You may comment your commitment w
 
 ### Support comands
 
+* **clear**
+
+Clears terminal log.
+
+* **q**
+
+Use Q to exit to general terminal comands.
+
+* **git diff**
+
+Shows difference beetwin last commitment add actual file.
+
+* **git log**
+
+Shows log of commitments in active branch.
+
+* **git log --graph**
+
+Shows all commitments with tree structure.
+
 ## GitHub
 
 ### Basic comands
