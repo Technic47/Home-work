@@ -26,6 +26,7 @@ Creates a commitment for all changes of files. You may comment your commitment w
 
 ### Branches
 
+
 * **git branch**
 
 Shows all branches and highlight active one.
@@ -53,6 +54,7 @@ Rename active branch.
 * __git merge *branchname*__
 
 Adds branch with *branchname* to active branch.
+
 
 ### Support commands
 
@@ -126,3 +128,4 @@ To create your repository on github it you need to:
 >>[GitHub new](https://github.com/new  "New repository creation")
 >2.  Use guidelines on GitHus to create a new or uploaв your existing repository.
 >3.  Use commands shown on GitHub in terminal.
+
