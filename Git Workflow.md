@@ -49,3 +49,16 @@ Download commitments from github repository.
 Sands commitments to githus repository.
 
 ### Workflow
+
+To import somebody`s github repository you need to:
+
+>1. Create folder and chose it. Do not use git init command.
+
+>2. Use git clone *adress* command.
+
+To create your repository on github it you need to:
+
+>1. Create new repository on site.
+>>[GitHub new](https://github.com/new  "New repository creation")
+>2.  Use guidelines on GitHus to create a new or uploaв your existing repository.
+>3.  Use commands shown on GitHub in terminal.
