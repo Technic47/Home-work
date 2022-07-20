@@ -54,7 +54,43 @@ Rename active branch.
 
 Adds branch with *branchname* to active branch.
 
-### Support comands
+### Support commands
+
+* **clear**
+
+Clears terminal log.
+
+* **q**
+
+Use Q to exit to general terminal comands.
+
+* **git diff**
+
+Shows difference beetwin last commitment add actual file.
+
+* **git log**
+
+Shows log of commitments in active branch.
+
+* **git log --graph**
+
+Shows all commitments with tree structure.
+
+* **git log --oneline**
+
+Shows all commitments with simplified tree structure.
+
+* __git tag *text*__
+
+Adds tag to last commitment.
+
+* **git stash**
+
+Hide last changes.
+
+* **git stash apply**
+
+Apply hidden changes.
 
 ## GitHub
 
