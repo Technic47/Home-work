@@ -26,29 +26,33 @@ Creates a commitment for all changes of files. You may comment your commitment w
 
 ### Branches
 
-* git branch
+* **git branch**
 
+Shows all branches and highlight active one.
 
-* git branch *branchname*
+* __git branch *branchname*__
 
+Creates new branch.
 
-* git checkout *branchname*
+* __git checkout *branchname*__
 
+Change branch to other.
 
+* __git checkout -b *branchname*__
 
-* git checkout -b *branchname*
+Create new branch and make it active.
 
+* __git branch -d *branchname*__
 
+Delete branch. You may write several branchnames and all of them will be deleted.
 
-* git branch -d *branchname*
+* __git branch -M *new_branchname*__
 
+Rename active branch.
 
+* __git merge *branchname*__
 
-* git branch -M *new_branchname*
-
-
-
-* git merge *branchname*
+Adds branch with *branchname* to active branch.
 
 ### Support comands
 
