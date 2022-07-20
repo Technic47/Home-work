@@ -44,4 +44,8 @@ Change directory to folder *text*.
 
 Download commitments from github repository.
 
+* **git push**
+
+Sands commitments to githus repository.
+
 ### Workflow
