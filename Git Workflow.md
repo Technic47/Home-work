@@ -40,4 +40,8 @@ Clones repository from selected adress in github.
 
 Change directory to folder *text*.
 
+* **git pull**
+
+Download commitments from github repository.
+
 ### Workflow
