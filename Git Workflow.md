@@ -26,7 +26,6 @@ Creates a commitment for all changes of files. You may comment your commitment w
 
 ### Branches
 
-
 * **git branch**
 
 Shows all branches and highlight active one.
@@ -54,7 +53,6 @@ Rename active branch.
 * __git merge *branchname*__
 
 Adds branch with *branchname* to active branch.
-
 
 ### Support commands
 
