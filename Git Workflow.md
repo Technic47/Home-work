@@ -32,4 +32,12 @@ Creates a commitment for all changes of files. You may comment your commitment w
 
 ### Basic comands
 
+* **git clone https://.......**
+
+Clones repository from selected adress in github.
+
+* __cd *text*__
+
+Change directory to folder *text*.
+
 ### Workflow
