@@ -48,6 +48,22 @@ Shows log of commitments in active branch.
 
 Shows all commitments with tree structure.
 
+* **git log --oneline**
+
+Shows all commitments with simplified tree structure.
+
+* __git tag *text*__
+
+Adds tag to last commitment.
+
+* **git stash**
+
+Hide last changes.
+
+* **git stash apply**
+
+Apply hidden changes.
+
 ## GitHub
 
 ### Basic comands
