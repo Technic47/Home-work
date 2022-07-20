@@ -40,4 +40,8 @@ Clones repository from selected adress in github.
 
 Change directory to folder *text*.
 
+* **git push**
+
+Sands commitments to githus repository.
+
 ### Workflow
