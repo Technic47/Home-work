@@ -14,15 +14,25 @@ Shows status of repository. Reviews modifired files.
 
 * **git add /filename/**
 
-Adds file for commitment. Filename could be replaced with dot.
+Adds file for commitment. 
 
- >*git add .*
+ >*git add '.\Git Workflow.md'*
+
+* **git add .**
+
+Adds all files in active folder for commitement.
+
+>*git add .*
 
 * **git commit**
 
-Creates a commitment for all changes of files. You may comment your commitment with -m "text".
-
 >*git commit -m "text"*
+
+Creates a commitment for all changes of files with comment in "text".
+
+>*git commit -am "text"*
+
+Creates a commitment for all changes __without *git add .*__ of files with comment in "text".
 
 ### Branches
 
@@ -37,6 +47,10 @@ Creates new branch.
 * __git checkout *branchname*__
 
 Change branch to other.
+
+* __git checkout *hash*__
+
+Goes to commitement with selected *hash*.
 
 * __git checkout -b *branchname*__
 
@@ -68,9 +82,13 @@ Use Q to exit to general terminal comands.
 
 Shows difference beetwin last commitment add actual file.
 
+>*git diff "hesh1" "hesh2"*
+
+Shows difference in 2 selected commitements.
+
 * **git log**
 
-Shows log of commitments in active branch.
+Shows log of last commitments in active branch.
 
 * **git log --graph**
 
@@ -79,6 +97,10 @@ Shows all commitments with tree structure.
 * **git log --oneline**
 
 Shows all commitments with simplified tree structure.
+
+* **git reflog**
+
+Shows all logs.
 
 * __git tag *text*__
 
@@ -91,6 +113,12 @@ Hide last changes.
 * **git stash apply**
 
 Apply hidden changes.
+
+* **git *command* --help**
+
+>*git commit --help*
+
+Shows info about any command.
 
 ## GitHub
 
